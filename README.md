@@ -6,3 +6,11 @@
 🚀 Whether I’m building apps, working with AI models, or deploying scalable solutions, I’m always up for a challenge and eager to learn. My journey in tech has been fueled by curiosity, creativity, and a desire to make an impact.
 
 Let’s connect and collaborate on something awesome!
+
+[**Follow me on LinkedIn**](https://www.linkedin.com/in/arjunlakhanpall/)
+
+---
+
+## 🌐 **Explore More About Me**
+Check out my personal website to know more about my work, projects, and journey:  
+[**Visit My Website**](https://about.me/arjunlakhanpall)
