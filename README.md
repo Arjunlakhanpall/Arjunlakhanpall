@@ -1,46 +1,45 @@
-You are probably looking for my website, or one of my AI, research, or systems-focused projects.
+# Welcome to my GitHub Page 👋
 
-I’m Arjun Lakhanpal, a final-year Electronics and Communication Engineering student at BPIT, GGSIPU, Delhi. My interests lie at the intersection of **artificial intelligence**, **embedded systems**, and **applied research**. I’ve worked on projects ranging from healthcare monitoring devices to AI-driven computer vision systems, blending hardware with intelligent algorithms to solve real-world problems.
+Hi, I'm **Arjun Lakhanpal**, an Electronics and Communication Engineering student at BPIT, GGSIPU Delhi—on a mission to bridge the gap between real-world challenges and technological innovation.
 
-I’m passionate about scientific innovation, open collaboration, and pushing the boundaries of what's possible through data, models, and meaningful design.
+My core interests lie in **AI**, **machine learning**, **image processing**, and **research-driven engineering**. I’ve worked on diverse projects ranging from hospital IoT devices and intelligent stamp recognition to deep learning models for healthcare and financial predictions. Whether it’s using Python for data science or integrating TensorFlow into medical tools, I’m passionate about building **impactful, research-backed solutions**.
 
----
+Beyond development, I actively share my journey through teaching, open-source work, and collaborative initiatives. I’m also a **course creator on Udemy**, YouTuber at **365code.in**, and an aspiring **researcher preparing for opportunities at CERN** and in advanced AI labs.
 
-### Core Interests
-
-- Artificial Intelligence & Machine Learning  
-- Signal Processing & Control Systems  
-- Embedded & Real-Time Systems  
-- Image Processing & Biomedical Applications  
-- Open Research & Scientific Prototyping
+Currently exploring LLMs and the science behind intelligent systems 🧠⚙️
 
 ---
 
-### Featured Projects
+## 🌟 Highlights
 
-- **Saline Level Detector for Hospitals** – Real-time patient monitoring system  
-- **Stamp Recognition System** – Cloud-based visual recognition for collectors  
-- **Battery Pack Simulator (LiSimPack)** – Research-driven work with PyBaMM  
-- **Stock Price Forecasting** – Predictive ML models using Python  
-- **Brain Tumor Detection (WIP)** – Deep learning for medical imaging  
-
----
-
-### Recent Work & Research
-
-- **AICTE IDEA Lab Intern** – Developed intelligent systems for education & health  
-- **ML in Hindi** – Instructor on Udemy; democratizing AI learning in local language  
-- **Thesis** – Focused on AI-enhanced biomedical signal classification  
-- **CERN Aspirant** – Preparing for involvement in particle and nuclear physics projects
+- 🏥 *Saline Level Detector* – Real-time hospital monitoring solution  
+- 🧠 *Brain Tumor Detection* – AI for medical image classification (in progress)  
+- 💰 *Stock Price Predictor* – Time-series forecasting using ML  
+- 📦 *Battery Simulation Library* – Contributions to LiSimPack with PyBaMM  
+- 📚 *Udemy Instructor* – *Machine Learning in Hindi: Beginner to Master*  
+- 🎓 *ECE + Minor in Computer Science* | BPIT, GGSIPU
 
 ---
 
-### Connect With Me
+## 📡 What I Love
+
+- AI research & neural networks  
+- Biomedical imaging & systems  
+- Scientific computing  
+- Sharing knowledge & speaking  
+- Wildlife photography 📷 (my creative escape)
+
+---
+
+## 📬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arjunlakhanpall)  
-- 🌐 [Portfolio Website](https://about.me/arjunlakhanpal)  
-- 🎥 [365code.in – YouTube Channel](https://www.youtube.com/@365codein)
+- 🌐 [My Portfolio](https://about.me/arjunlakhanpal)  
+- 📺 [YouTube: 365code.in](https://www.youtube.com/@365codein)  
+- 🎓 [Udemy Course](https://www.udemy.com/course/machine-learning-in-hindi-beginner-to-master)
+
+If you enjoy my work or want to collaborate on research, AI, or education—feel free to reach out. Let’s build something meaningful!
 
 ---
 
-_“I don't just build with code—I build with curiosity, research, and impact.”_
+_“Learning never exhausts the mind – especially when curiosity leads.”_
