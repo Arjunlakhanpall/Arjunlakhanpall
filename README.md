@@ -1,16 +1,24 @@
-# 👋 Hi, I'm **Arjun Lakhanpal**!
+# 👋 Hey there, I'm **Arjun Lakhanpal**
 
-**_Electronics & Communication Engineering Student at BPIT, GGSIPU Delhi_**  
-🎯 Passionate about solving real-world problems through code and technology. With a blend of **software development**, **AI**, and **innovative project design**, I’m constantly pushing the boundaries of what’s possible in the tech space.  
-
-🚀 Whether I’m building apps, working with AI models, or deploying scalable solutions, I’m always up for a challenge and eager to learn. My journey in tech has been fueled by curiosity, creativity, and a desire to make an impact.
-
-Let’s connect and collaborate on something awesome!
-
-[**Follow me on LinkedIn**](https://www.linkedin.com/in/arjunlakhanpall/)
+🎓 **Electronics & Communication Engineering Student**  
+📍 **BPIT, GGSIPU – Delhi**
 
 ---
 
-## 🌐 **Explore More About Me**
-Check out my personal website to know more about my work, projects, and journey:  
-[**Visit My Website**](https://about.me/arjunlakhanpall)
+🚀 I'm a passionate technologist who thrives on solving real-world problems through **code**, **AI**, and **innovative design**.  
+With a strong foundation in **engineering principles** and hands-on experience in **software development**, I love building solutions that make a difference.
+
+Whether it's developing full-stack applications, experimenting with machine learning models, or deploying scalable systems — I bring **curiosity**, **creativity**, and a **can-do mindset** to every challenge.
+
+---
+
+### 💡 Always exploring. Always building. Always leveling up.
+
+---
+
+## 🤝 Let's Collaborate!
+
+If you're into AI, full-stack development, or simply love discussing new tech ideas — let’s connect!
+
+🔗 [**Connect on LinkedIn**](https://www.linkedin.com/in/arjunlakhanpall/)  
+🌐 [**Visit My Website**](https://about.me/arjunlakhanpal)
