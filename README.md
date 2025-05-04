@@ -35,9 +35,8 @@ Currently exploring LLMs and the science behind intelligent systems 🧠⚙️
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arjunlakhanpall)  
 - 🌐 [My Portfolio](https://about.me/arjunlakhanpal)  
-- 📺 [YouTube: 365code.in](https://www.youtube.com/@365codein)  
-- 🎓 [Udemy Course](https://www.udemy.com/course/machine-learning-in-hindi-beginner-to-master)
-
+- 📺 [YouTube: 365code.in](https://www.youtube.com/@365codein)
+  
 If you enjoy my work or want to collaborate on research, AI, or education—feel free to reach out. Let’s build something meaningful!
 
 ---
