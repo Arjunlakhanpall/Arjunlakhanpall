@@ -1,4 +1,4 @@
-# Welcome to my GitHub Page 👋
+ Welcome to my GitHub Page 👋
 
 Hi, I'm **Arjun Lakhanpal**, an Electronics and Communication Engineering student at BPIT, GGSIPU Delhi-on a mission to bridge real-world challenges and technological innovation.
 
