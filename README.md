@@ -27,11 +27,11 @@ Currently exploring Large Language Models (LLMs) and the science behind intellig
 
 ---
 
-## 📬 Let's Connect
+## 📬 📫 How to reach me?
+You can send message to my social media (Twitter, LinkedIn). I will try my best to response asap. But remember to keep it short, and polite 😉.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arjunlakhanpall)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=flat-square&logo=google-chrome)](https://about.me/arjunlakhanpal)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@365codein)
+I'm always open for collaborating and/or a nice chat with nice people 🙂.
+
 
 ---
 
