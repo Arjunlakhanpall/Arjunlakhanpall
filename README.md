@@ -1,10 +1,6 @@
 # Hi 👋, I'm Arjun Lakhanpal
 
-_A passionate AI/ML Engineer and Researcher from India_
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Coding" width="500"/>
-</p>
+_A passionate AI/ML Engineer .
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Arjunlakhanpall.Arjunlakhanpall&style=flat-square)
 
