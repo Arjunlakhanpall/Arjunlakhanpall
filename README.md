@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arjun Lakhanpal
 
-_A passionate AI/ML Engineer .
+A passionate AI/ML Engineer .
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Arjunlakhanpall.Arjunlakhanpall&style=flat-square)
 
