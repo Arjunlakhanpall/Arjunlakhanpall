@@ -62,15 +62,7 @@ I'm always open to collaborations or a friendly chat!
 
 ## 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunlakhanpall&show_icons=true&theme=radical&cache_bust=12345" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunlakhanpall&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arjunlakhanpall&show_icons=true&theme=radical&cache_bust=12345" alt="Arjunlakhanpall's GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunlakhanpall&layout=compact&theme=radical" alt="Top Languages" /> </p>
 ---
 
 > _“Learning never exhausts the mind – especially when curiosity leads.”_
