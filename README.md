@@ -58,15 +58,14 @@ I'm always open to collaborations or a friendly chat!
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat&logo=natural-language-processing&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0077B5?style=flat&logo=language&logoColor=white)
 
----
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunlakhanpall&show_icons=true&theme=radical&cache_bust=12345" alt="Arjunlakhanpall's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunlakhanpall&show_icons=true&theme=white&cache_bust=12345" alt="Arjunlakhanpall's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunlakhanpall&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunlakhanpall&layout=compact&theme=white" alt="Top Languages" />
 </p>
 
 > _“Learning never exhausts the mind – especially when curiosity leads.”_
