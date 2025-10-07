@@ -10,6 +10,29 @@ I’m Arjun Lakhanpal, an Electronics and Communication Engineering student at B
 
 ---
 
+## 💼 Experience
+
+**Software Intern — Pocket FM**  
+*Jul 2025 – Present · 4 mos*  
+📍 Bengaluru, Karnataka, India · Hybrid  
+**Skills:** Continuous Integration & Continuous Delivery (CI/CD), Software Innovation, Backend Automation, Data Engineering  
+
+---
+
+**Intern — AICTE IDEA Lab AJCE**  
+*Jun 2024 – Aug 2024 · 3 mos*  
+📍 Dwarka, Delhi, India · On-site  
+**Skills:** Embedded Systems, IoT, Python for Automation, Hardware Prototyping  
+
+---
+
+**Trainee — Medanta Hospital (Gurgaon)**  
+*Jan 2024 – Feb 2024 · 2 mos*  
+📍 Gurugram, Haryana, India · Hybrid  
+**Skills:** Biomedical Signal Processing, Clinical Data Analysis, HealthTech Research  
+
+---
+
 ## 🌟 Highlights
 
 - 📚 **Udemy Instructor:** *Machine Learning in Hindi: Beginner to Master*  
@@ -31,7 +54,10 @@ I’m Arjun Lakhanpal, an Electronics and Communication Engineering student at B
 
 I'm always open to collaborations or a friendly chat!  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://arjunlakhanpall.github.io/arjunlakhanpal.io/) [![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Arjxnlakhanpxl)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunlakhanpall/) [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lakhanpxlao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://arjunlakhanpall.github.io/arjunlakhanpal.io/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Arjxnlakhanpxl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjunlakhanpall/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/lakhanpxlao)
 
 ---
 
@@ -58,6 +84,8 @@ I'm always open to collaborations or a friendly chat!
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat&logo=natural-language-processing&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0077B5?style=flat&logo=language&logoColor=white)
 
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunlakhanpall" />
@@ -67,6 +95,6 @@ I'm always open to collaborations or a friendly chat!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunlakhanpall&layout=compact&theme=white" alt="Top Languages" />
 </p>
 
-<!-- These add contribution-related visuals -->
+---
 
 > _“Learning never exhausts the mind – especially when curiosity leads.”_
