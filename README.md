@@ -83,6 +83,8 @@ I'm always open to collaborations or a friendly chat!
 ![Generative AI](https://img.shields.io/badge/Generative_AI-00B0FF?style=flat&logo=artificial-intelligence&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4B0082?style=flat&logo=natural-language-processing&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0077B5?style=flat&logo=language&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3A9B39?logo=python&logoColor=white)
 
 ---
 
