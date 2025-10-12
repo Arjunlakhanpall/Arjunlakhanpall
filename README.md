@@ -93,10 +93,6 @@ I'm always open to collaborations or a friendly chat!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunlakhanpall" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunlakhanpall&layout=compact&theme=white" alt="Top Languages" />
-</p>
-
 ---
 
 > _“Learning never exhausts the mind – especially when curiosity leads.”_
